@@ -58,11 +58,15 @@ I have used Deep Deterministic Policy Gradient (DDPG) algorithm to train the age
     Episode 150	Average Score: 23.55
     Environment solved in 176 episodes, mean score: 30.10
 
-    Here was chosen the second version with 20 agents, and the final score was an average over all the agents in the last 100 episodes.
+    Here was chosen the second version with 20 agents, and the final score was an average over all the agents in the last 100 episodes, which was the lenght of the score_window.
 
 ## Plotted Results
 
 ![Plotted Scores][image1]
+
+## More Information
+On [Continuous_Control.ipynb](https://github.com/JulioZanotto/drlnd_continuous_control_P2/blob/main/Continuous_Control.ipynb)
+
 
 
 ## Ideas for Future Work

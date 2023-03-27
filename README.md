@@ -64,5 +64,5 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-In order to have an trained agent you can use the Continuous_Control.ipynb to train your own, or watch a trained agent but running the last cell (Here the checkpoints checkpoint_actor.pth and checkpoint_critic.pth were the ones who achieved 30 in the last 100 episodes) !
+In order to have an trained agent you can use the [Continuous_Control.ipynb](https://github.com/JulioZanotto/drlnd_continuous_control_P2/blob/main/Continuous_Control.ipynb) to train your own, or watch a trained agent but running the last cell (Here the checkpoints checkpoint_actor.pth and checkpoint_critic.pth were the ones who achieved 30 in the last 100 episodes) !
 
